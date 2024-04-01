@@ -6,8 +6,8 @@ This project delivers a seamless shopping experience for users on both mobile de
 
 **Key Technologies:**
 
-* **Flutter
-* **Firebase
+* Flutter
+* Firebase
 
 **Project Structure:**
 
